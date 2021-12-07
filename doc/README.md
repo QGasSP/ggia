@@ -1,1 +1,1 @@
-Just initial template to create this folder. All documentation shoudl go under here.
+Just initial template to create this folder. All documentation should go under here.
